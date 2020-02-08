@@ -63,7 +63,7 @@ Alejandro
 11. Request information from another doctor
 12. View schedule
 
-
+Jordan
 13. Exporting data (file sharing)
 14. Referral letter
 15. Provider notes
@@ -72,12 +72,6 @@ Sam
 16. Patient followup
 17. Population health
 18. View tests
-
-
-
-
-
-
 
 
 Extra assignments to complete:
